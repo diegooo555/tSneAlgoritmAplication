@@ -121,6 +121,6 @@ Controla el tamaño del "paso" que da el algoritmo en cada actualización durant
 * **Valor Típico:** Para datasets de este tamaño, valores entre `100` y `200` suelen ofrecer el mejor equilibrio.
 
 ### Dashboard principal de la Aplicación
-![Dashboard principal de la Aplicación](assets/dashboard.png)ashboard princ
+![Dashboard principal de la Aplicación](assets/dashboard.png)
 ### Resultado de la Ejecución
 ![Resultado de la Ejecución](assets/resultado.png)
