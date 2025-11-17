@@ -119,3 +119,8 @@ Controla el tamaño del "paso" que da el algoritmo en cada actualización durant
 * **Tasa Baja (10):** Los puntos se mueven muy lentamente. Puede requerir muchísimas iteraciones para llegar a una solución y corre el riesgo de quedarse atascado en óptimos locales.
 * **Tasa Alta (200+):** Los puntos se mueven agresivamente. Pueden "saltarse" la posición ideal, resultando en una visualización donde todos los puntos parecen equidistantes y dispersos (como una nube uniforme).
 * **Valor Típico:** Para datasets de este tamaño, valores entre `100` y `200` suelen ofrecer el mejor equilibrio.
+
+### Dashboard principal de la Aplicación
+![Dashboard principal de la Aplicación](assets/dashboard.png)ashboard princ
+### Resultado de la Ejecución
+![Resultado de la Ejecución](assets/resultado.png)

@@ -47,7 +47,7 @@ def main():
             st.success("¡Procesamiento completado!")
     else:
         st.info("👈 Ajusta los parámetros y presiona 'Ejecutar t-SNE'")
-        st.subheader("Data Cruda")
+        st.subheader("Data Aplanada")
         st.dataframe(pd.DataFrame(X).head())
 
 if __name__ == "__main__":
